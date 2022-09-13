@@ -1,4 +1,7 @@
 # learningFlutter_02_jokenpo
 
-![Alt text](https://github.com/bselhorst/learningFlutter_02_jokenpo/edit/main/app2_01.png "Optional title")
 ![My Image](app2_01.png)
+![My Image](app2_02.png)
+![My Image](app2_03.png)
+![My Image](app2_04.png)
+
